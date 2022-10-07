@@ -1,8 +1,10 @@
+![Prateek thakur](https://user-images.githubusercontent.com/67188426/194644907-ce2966e2-0f40-456c-a339-22dc02e7b40f.png)
 <h1>
  <p align="center">
- Hello!, I'm Prateek Thakur
+ Hello!, Welcome to my profile
 </p>
 </h1>
+
 
 # 💫 About Me:
 🔭 I’m currently working on Android and IOS<br>👯 I’m looking to collaborate on Kotlin and Swift<br>🌱 I’m currently learning Firebase<br>💬 Ask me about Android | iOS | Firebase<br>⚡ Fun fact println("have fun")
