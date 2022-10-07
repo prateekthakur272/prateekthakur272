@@ -1,3 +1,9 @@
+<h1>
+ <p align="center">
+ Hello!, I'm Prateek Thakur
+</p>
+</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on Android and IOS<br>👯 I’m looking to collaborate on Kotlin and Swift<br>🌱 I’m currently learning Firebase<br>💬 Ask me about Android | iOS | Firebase<br>⚡ Fun fact println("have fun")
 
