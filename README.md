@@ -19,7 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=prateekthakur272&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prateekthakur272&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekthakur272&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=prateekthakur272&bg_color=1a1b27&color=bf91f3&line=628fdb&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=prateekthakur272&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prateekthakur272&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
