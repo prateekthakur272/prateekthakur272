@@ -1,4 +1,4 @@
-![Prateek thakur](https://user-images.githubusercontent.com/67188426/194644907-ce2966e2-0f40-456c-a339-22dc02e7b40f.png)
+![Prateek thakur](https://user-images.githubusercontent.com/67188426/209716787-f8f24291-d16b-4e0e-92c7-d5bf8f7cd73e.png)
 <h1>
  <p align="center">
  Hello!, Welcome to my profile
