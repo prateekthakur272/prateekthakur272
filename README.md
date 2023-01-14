@@ -1,4 +1,7 @@
-![Prateek thakur](https://user-images.githubusercontent.com/67188426/209716787-f8f24291-d16b-4e0e-92c7-d5bf8f7cd73e.png)
+<!-- ![Prateek thakur](https://user-images.githubusercontent.com/67188426/209716787-f8f24291-d16b-4e0e-92c7-d5bf8f7cd73e.png) -->
+![Prateek Thakur](https://user-images.githubusercontent.com/67188426/212469670-fd083b62-9ce2-47d3-89af-850a66e45387.png)
+<!-- ![Prateek Thakur](https://user-images.githubusercontent.com/67188426/212469704-9090314f-6ec6-45c4-b4c9-cacccba8b0c1.png)-->
+
 <h1>
  <p align="center">
  Hello!, Welcome to my profile
