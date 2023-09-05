@@ -20,8 +20,6 @@
 <img align="left" alt=“Android” width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226770.png" />
 <img align="left" alt=“Android studio” width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1024px-Android_Studio_Icon_3.6.svg.png?20210301045217" />
 <img align="left" alt=“Kotlin” width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png?20210501145042" />
-<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-<img align="left" alt=“JavaScript” width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 </br>
 
 ## 🌐 Socials:
