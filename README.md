@@ -10,7 +10,7 @@
 
 
 ## 💫 About Me:
-🔭 I’m currently working on Android and Flutter<br>👯 I’m looking to collaborate on Kotlin and Dart🌱 I’m currently learning Jetpack Compose<br>💬 Ask me about Android | Flutter | Firebase<br>⚡ Fun fact println("have fun")
+🔭 I’m currently working on Android and Flutter<br>👯 I’m looking to collaborate on Kotlin and Dart<br>🌱 I’m currently learning Jetpack Compose<br>💬 Ask me about Android | Flutter | Firebase<br>⚡ Fun fact println("have fun")
 
 ## 🛠️ Languages and Tools
 
