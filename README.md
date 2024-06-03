@@ -16,19 +16,19 @@
 
 `Programming Languages`
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,python,dart,kotlin,js&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=java,python,dart,kotlin,js&theme=dark)]()
 
 `Frameworks`
 
-[![My Skills](https://skills.thijs.gg/icons?i=flutter,django,fastapi,express,nodejs&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=flutter,django,fastapi,express,nodejs&theme=dark)]()
 
 `Databases`
 
-[![My Skills](https://skills.thijs.gg/icons?i=postgres,mysql&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql&theme=dark)]()
 
 `Tools & Platforms`
 
-[![My Skills](https://skills.thijs.gg/icons?i=vscode,idea,git,github,postman,firebase,docker&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,github,postman,firebase,docker&theme=dark)]()
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Prateek_._thakur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prateek-thakur-452127216)
