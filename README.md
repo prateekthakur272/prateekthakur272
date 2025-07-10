@@ -16,7 +16,7 @@
 
 `Programming Languages`
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,dart,kotlin,js&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=kotlin,dart,python,java,js&theme=dark)]()
 
 `Frameworks`
 
