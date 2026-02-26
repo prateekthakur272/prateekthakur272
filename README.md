@@ -10,25 +10,25 @@
 
 
 ## 💫 About Me:
-🔭 I’m currently working on Mobile application development<br>👯 I’m looking to collaborate on Flutter and Jetpack Compose<br>🌱 I’m currently learning SwiftUI<br>💬 Ask me about Compose | Flutter | SwiftUI<br>⚡ println("Hello Developers!")
+🔭 I’m currently working on Mobile application development<br>👯 I’m looking to collaborate on Flutter and Jetpack Compose<br>🌱 I’m currently learning Micronaut<br>💬 Ask me about Compose | Flutter | Ko<br>⚡ println("Hello Developers!")
 
 ## 🛠️ Languages and Tools
 
 `Programming Languages`
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,swift,dart,python,java,js,cpp&theme=dark)]()
+[![Programming Languages](https://skillicons.dev/icons?i=kotlin,java,dart,python,cpp&theme=dark)]()
 
 `Frameworks`
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,django,fastapi,express,nodejs&theme=dark)]()
+[![Frameworks](https://skillicons.dev/icons?i=androidstudio,flutter,spring,fastapi&theme=dark)]()
 
 `Databases`
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql&theme=dark)]()
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql&theme=dark)]()
 
 `Tools & Platforms`
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,swift,vscode,idea,git,github,postman,firebase,docker&theme=dark)]()
+[![Tools & Platforms](https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,github,postman,firebase,docker&theme=dark)]()
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Prateek_._thakur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prateek-thakur-452127216)
