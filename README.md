@@ -10,7 +10,12 @@
 
 
 ## 💫 About Me:
-🔭 I’m currently working on Mobile application development<br>👯 I’m looking to collaborate on Flutter and Jetpack Compose<br>🌱 I’m currently learning Micronaut<br>💬 Ask me about Compose | Flutter | Ko<br>⚡ println("Hello Developers!")
+
+👋 Hi, I'm Prateek Thakur, a passionate Software Engineer specializing in Mobile App and Backend Development. I enjoy building scalable, high-performance apps.
+
+🔭 I’m currently working on Spring Boot</br>
+🌱 I’m currently learning System Design</br>
+⚡ println("Hello Developers!")
 
 ## 🛠️ Languages and Tools
 
